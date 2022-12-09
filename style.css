@@ -8,6 +8,7 @@ body { margin: auto; }
   transform: translateZ(0);
   transform-style: preserve-3d;
   color : white ;
+   font-size: 25px;
 }
 
 .title .text {
